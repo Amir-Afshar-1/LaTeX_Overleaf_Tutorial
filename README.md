@@ -5,3 +5,7 @@ LaTeX_Overleaf_Tutorial
    Go to ...
    Choose ...
    Select
+
+![1](Archive/images_of_documents/1.png)
+
+![2](Archive/images_of_documents/2.png)
